@@ -10,3 +10,11 @@ This is a dynamically created travelapp to explore the world. We can access this
 ![image](https://user-images.githubusercontent.com/116285239/224095097-fadbf74d-f503-4f74-8ee6-4e3a36ed0231.png)
 ![image](https://user-images.githubusercontent.com/116285239/224095813-61bc765b-9e82-4ceb-b606-e0842bed709a.png)
 
+Technologies Used:
+```
+1.Django
+2.HTML
+3.CSS
+4.Javascript
+5.Bootstrap
+```
